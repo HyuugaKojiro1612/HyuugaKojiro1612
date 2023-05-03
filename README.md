@@ -9,7 +9,7 @@
   </a>
 </div>
 
-- ⚡ I'm a third-year student who majors in **Computer Science** at Ho Chi Minh City University of Science.
+- ⚡ I'm a third-year student who majors in **Computer Science** at Ho Chi Minh City University of Science
 
 - 🔭 I’m currently learning **Machine Learning** and **Data Mining**
 
