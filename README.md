@@ -12,7 +12,7 @@
 
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="left">⚙️ GitHub Stats ⚙️</h2>
 <p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HyuugaKojiro1612&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="HyuugaKojiro1612" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HyuugaKojiro1612&theme=vue-dark" alt="HyuugaKojiro1612" /></p>
