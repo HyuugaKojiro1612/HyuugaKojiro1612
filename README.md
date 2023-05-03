@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/quan-tran1612/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100009556104060">
+    <img src="https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
+
 - ⚡ I'm a third-year student who majors in **Computer Science** at Ho Chi Minh City University of Science.
 
-- 🔭 I’m currently learning **Machine Learning and Data Mining**
+- 🔭 I’m currently learning **Machine Learning** and **Data Mining**
 
 - 🌱 I have foundational knowledge of **Programming Fundamentals, Data Structures and Algorithms, Discrete Structures, Calculus, Linear Algebra, Probability and Statistics**
 
