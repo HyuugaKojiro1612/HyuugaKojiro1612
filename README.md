@@ -9,15 +9,13 @@
   </a>
 </div>
 
-- ⚡ I'm a third-year student who majors in **Computer Science** at Ho Chi Minh City University of Science
+- ⚡ I'm a third-year student who majors in **Computer Science** at Ho Chi Minh City University of Technology - Vietnam National University, Ho Chi Minh City
 
 - 🔭 I’m currently learning **Machine Learning**
 
-- 🌱 I have foundational knowledge of **Programming Fundamentals, Data Structures and Algorithms, Discrete Structures, Calculus, Linear Algebra, Probability and Statistics**
+- 🤝 I’m looking for help with **Reinforcement Learning**
 
-- 🤝 I’m looking for help with **Data Science**
-
-- 📫 How to reach me **minhquannguyenhue@gmail.com**
+- 📫 How to reach me: **minhquannguyenhue@gmail.com**
 
 <br>
 <h2 align="left">⚙️ GitHub Stats ⚙️</h2>
