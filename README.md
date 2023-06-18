@@ -1,3 +1,6 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=HyuugaKojiro1612&label=Profile%20Views&color=9&icon=0&pretty=false" />
+</a>
 <h1 align="center">Hi 👋, I'm Quan</h1>
 
 <div id="badges" align="center">
