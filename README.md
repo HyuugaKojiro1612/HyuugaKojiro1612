@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **Reinforcement Learning**
+- 🤝 I’m looking for help with **Data Science**
 
 - 📫 How to reach me: **minhquannguyenhue@gmail.com**
 
