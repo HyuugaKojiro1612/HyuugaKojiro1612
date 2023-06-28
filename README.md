@@ -3,6 +3,7 @@
 </a>
 <h1 align="center">Hi 👋, I'm Quan</h1>
 
+<!--
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/quan-tran1612/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,6 +12,7 @@
     <img src="https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+-->
 
 - ⚡ I'm a third-year student who majors in **Computer Science** at Ho Chi Minh City University of Technology - Vietnam National University, Ho Chi Minh City
 
