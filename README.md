@@ -14,9 +14,9 @@
 </div>
 -->
 
-- ⚡ I'm a third-year student who majors in **Computer Science** at Ho Chi Minh City University of Technology - Vietnam National University, Ho Chi Minh City
+- ⚡ I'm a fourth-year student who majors in **Computer Science** at Ho Chi Minh City University of Technology - Vietnam National University, Ho Chi Minh City
 
-- 🔭 I’m currently learning **Machine Learning**
+- 🔭 I’m currently learning **Deep Learning**
 
 - 🤝 I’m looking for help with **Data Science**
 
